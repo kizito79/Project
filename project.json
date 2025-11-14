@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.8081657,10.3023383]},"properties":{"name":"DogonYaro Round about","Report_Dat":"2025-11-14T00:00:00.000Z","Length_Rd":"1.2","Activities":"Grading, Scrapping, Filling","Status":"In progress"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.7991527,10.3047364]},"properties":{"name":"Gongola Avenue Junction","Report_Dat":"2025-11-14T00:00:00.000Z","Length_Rd":"5.2","Activities":"Land scaping","Status":"In progress"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.8012641,10.3022537]},"properties":{"name":"State Avenue Junction","Report_Dat":"2025-11-14T00:00:00.000Z","Length_Rd":"1.2","Activities":"surfacing","Status":"Completed"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.803122799999999,10.305696]},"properties":{"name":"Gwalgafuran RD","Report_Dat":"2025-11-14T00:00:00.000Z","Length_Rd":"0.56","Activities":"grading, surfacing","Status":"In Progress"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.797961786029152,10.308453157683]},"properties":{"name":"RAAMP Junction","Report_Dat":"2025-11-14T00:00:00.000Z","Length_Rd":"2.6","Activities":"leveling, tiling","Status":"Completed"}}
+]}

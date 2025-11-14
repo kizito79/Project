@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[9.797961786029152,10.308453157683],[9.797879344905185,10.30813487322783],[9.797847104104795,10.30792474949281],[9.797879881969038,10.30769594872365],[9.79794557008005,10.30747213529623],[9.79810673944828,10.30710562670407],[9.798394220599105,10.30642592137624],[9.798683221032029,10.30576545945448],[9.799108853856694,10.30485381638089]]},"properties":{"name":"Raamp Junction to Gongola Avenue","styleUrl":"#m_ylw-pushpin","stroke_opa":1,"stroke":"#ff0000","stroke_wid":3,"icon_scale":1.1,"icon_offse":0,"icon_off_1":0,"icon":"http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png"}}
+]}
