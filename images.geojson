@@ -1,0 +1,1251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.794919166666666,
+          10.290480555555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_160733.jpg",
+        "image": "TimePhoto_20251124_160733.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.794919166666666,
+          10.290478055555555
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_160729.jpg",
+        "image": "TimePhoto_20251124_160729.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.794919166666666,
+          10.290478055555555
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_160731.jpg",
+        "image": "TimePhoto_20251124_160731.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.781359444444446,
+          10.305224444444445
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_074457.jpg",
+        "image": "TimePhoto_20251125_074457.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.781359444444446,
+          10.305223055555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_074504.jpg",
+        "image": "TimePhoto_20251125_074504.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.781348888888889,
+          10.305223611111112
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_074509.jpg",
+        "image": "TimePhoto_20251125_074509.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.781359444444446,
+          10.305224444444445
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_074501.jpg",
+        "image": "TimePhoto_20251125_074501.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790724722222222,
+          10.298411666666667
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085508.jpg",
+        "image": "TimePhoto_20251125_085508.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.786709444444444,
+          10.29912611111111
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081413.jpg",
+        "image": "TimePhoto_20251125_081413.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799492777777777,
+          10.309821666666668
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_170959.jpg",
+        "image": "TimePhoto_20251124_170959.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.800479166666667,
+          10.298980277777778
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_090622.jpg",
+        "image": "TimePhoto_20251125_090622.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787859166666667,
+          10.298144444444445
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081630.jpg",
+        "image": "TimePhoto_20251125_081630.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.792292777777778,
+          10.298632777777778
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085401.jpg",
+        "image": "TimePhoto_20251125_085401.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.800349722222222,
+          10.298991666666666
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_090620.jpg",
+        "image": "TimePhoto_20251125_090620.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801798055555556,
+          10.289703055555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093746.jpg",
+        "image": "TimePhoto_20251125_093746.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.800465,
+          10.29782611111111
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_095915.jpg",
+        "image": "TimePhoto_20251125_095915.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.788953333333334,
+          10.298573611111111
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085636.jpg",
+        "image": "TimePhoto_20251125_085636.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.791187222222222,
+          10.29836861111111
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085445.jpg",
+        "image": "TimePhoto_20251125_085445.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787962222222221,
+          10.298003611111112
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081809.jpg",
+        "image": "TimePhoto_20251125_081809.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801425555555555,
+          10.302565277777779
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100352.jpg",
+        "image": "TimePhoto_20251125_100352.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795871111111111,
+          10.291985555555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093121.jpg",
+        "image": "TimePhoto_20251125_093121.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.781450833333334,
+          10.305321111111112
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_080332.jpg",
+        "image": "TimePhoto_20251125_080332.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.78142277777778,
+          10.305301111111111
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_080318.jpg",
+        "image": "TimePhoto_20251125_080318.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795870555555556,
+          10.291985
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093122.jpg",
+        "image": "TimePhoto_20251125_093122.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801034444444445,
+          10.2912825
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_092820.jpg",
+        "image": "TimePhoto_20251125_092820.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.802689722222222,
+          10.304868055555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100944.jpg",
+        "image": "TimePhoto_20251125_100944.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790293888888888,
+          10.303331944444444
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_084329.jpg",
+        "image": "TimePhoto_20251125_084329.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.791231111111111,
+          10.298375555555555
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085444.jpg",
+        "image": "TimePhoto_20251125_085444.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795906944444445,
+          10.291948611111112
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093107.jpg",
+        "image": "TimePhoto_20251125_093107.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7879725,
+          10.298026666666667
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081815.jpg",
+        "image": "TimePhoto_20251125_081815.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801481666666668,
+          10.302598611111112
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_101022.jpg",
+        "image": "TimePhoto_20251125_101022.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787640833333333,
+          10.302841944444445
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_083425.jpg",
+        "image": "TimePhoto_20251125_083425.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790618888888888,
+          10.298409722222223
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085513.jpg",
+        "image": "TimePhoto_20251125_085513.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.789616666666667,
+          10.302693611111112
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_084102.jpg",
+        "image": "TimePhoto_20251125_084102.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790674166666667,
+          10.2984125
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085511.jpg",
+        "image": "TimePhoto_20251125_085511.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.802560555555557,
+          10.3045975
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100957.jpg",
+        "image": "TimePhoto_20251125_100957.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799498055555555,
+          10.30982888888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_171002.jpg",
+        "image": "TimePhoto_20251124_171002.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.788850555555555,
+          10.298599166666667
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085649.jpg",
+        "image": "TimePhoto_20251125_085649.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790396944444444,
+          10.29838611111111
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085522.jpg",
+        "image": "TimePhoto_20251125_085522.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.781351944444445,
+          10.305211388888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_074515.jpg",
+        "image": "TimePhoto_20251125_074515.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799511666666666,
+          10.30983027777778
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_171005.jpg",
+        "image": "TimePhoto_20251124_171005.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.796155,
+          10.299127222222221
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_090343.jpg",
+        "image": "TimePhoto_20251125_090343.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.786708888888889,
+          10.299128333333334
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081415.jpg",
+        "image": "TimePhoto_20251125_081415.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799865,
+          10.299138055555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_093422.jpg",
+        "image": "TimePhoto_20251124_093422.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.791908333333334,
+          10.298490833333334
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085416.jpg",
+        "image": "TimePhoto_20251125_085416.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790241944444444,
+          10.302843055555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_084220.jpg",
+        "image": "TimePhoto_20251125_084220.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801798055555556,
+          10.289702777777778
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093745.jpg",
+        "image": "TimePhoto_20251125_093745.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.781450833333334,
+          10.305320833333335
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_080331.jpg",
+        "image": "TimePhoto_20251125_080331.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.802567777777778,
+          10.30461388888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100955.jpg",
+        "image": "TimePhoto_20251125_100955.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80265027777778,
+          10.304779444444446
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100946.jpg",
+        "image": "TimePhoto_20251125_100946.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787841944444445,
+          10.2981575
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081628.jpg",
+        "image": "TimePhoto_20251125_081628.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79044888888889,
+          10.298384722222222
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085520.jpg",
+        "image": "TimePhoto_20251125_085520.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799746666666666,
+          10.29920138888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_093358.jpg",
+        "image": "TimePhoto_20251124_093358.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.802800833333334,
+          10.305096666666667
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100937.jpg",
+        "image": "TimePhoto_20251125_100937.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.792915277777778,
+          10.302869166666667
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_084922.jpg",
+        "image": "TimePhoto_20251125_084922.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790496944444444,
+          10.29839
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085518.jpg",
+        "image": "TimePhoto_20251125_085518.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801798333333334,
+          10.2897025
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093742.jpg",
+        "image": "TimePhoto_20251125_093742.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795871111111111,
+          10.291985833333333
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093120.jpg",
+        "image": "TimePhoto_20251125_093120.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.788858611111111,
+          10.298598888888888
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085654.jpg",
+        "image": "TimePhoto_20251125_085654.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787962499999999,
+          10.298002777777779
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081807.jpg",
+        "image": "TimePhoto_20251125_081807.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.802814444444445,
+          10.305105277777779
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100934.jpg",
+        "image": "TimePhoto_20251125_100934.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.797273888888888,
+          10.308890833333335
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_102057.jpg",
+        "image": "TimePhoto_20251125_102057.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801128055555557,
+          10.302364444444445
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_101035.jpg",
+        "image": "TimePhoto_20251125_101035.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80131138888889,
+          10.30233388888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_101030.jpg",
+        "image": "TimePhoto_20251125_101030.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.798722222222223,
+          10.3057075
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_101906.jpg",
+        "image": "TimePhoto_20251125_101906.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787603333333333,
+          10.302821944444446
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_083422.jpg",
+        "image": "TimePhoto_20251125_083422.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.796165555555556,
+          10.299131666666666
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_090347.jpg",
+        "image": "TimePhoto_20251125_090347.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799746944444445,
+          10.29920138888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_093402.jpg",
+        "image": "TimePhoto_20251124_093402.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8004675,
+          10.297823333333334
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_095914.jpg",
+        "image": "TimePhoto_20251125_095914.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.799845277777777,
+          10.29914861111111
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251124_093417.jpg",
+        "image": "TimePhoto_20251124_093417.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.800469444444445,
+          10.297823055555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_095912.jpg",
+        "image": "TimePhoto_20251125_095912.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790307777777778,
+          10.298393333333333
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085524.jpg",
+        "image": "TimePhoto_20251125_085524.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.78142388888889,
+          10.305302222222222
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_080322.jpg",
+        "image": "TimePhoto_20251125_080322.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.798722222222223,
+          10.305707777777778
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_101905.jpg",
+        "image": "TimePhoto_20251125_101905.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801395555555557,
+          10.302458055555556
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_101025.jpg",
+        "image": "TimePhoto_20251125_101025.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787971944444445,
+          10.298025277777779
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_081817.jpg",
+        "image": "TimePhoto_20251125_081817.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801439166666668,
+          10.302610277777779
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100342.jpg",
+        "image": "TimePhoto_20251125_100342.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790544166666667,
+          10.298399444444444
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_085516.jpg",
+        "image": "TimePhoto_20251125_085516.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80179388888889,
+          10.289144444444444
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093737.jpg",
+        "image": "TimePhoto_20251125_093737.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7972725,
+          10.30889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_102055.jpg",
+        "image": "TimePhoto_20251125_102055.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.792924166666667,
+          10.30951138888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_102252.jpg",
+        "image": "TimePhoto_20251125_102252.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795871388888889,
+          10.291985833333333
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_093118.jpg",
+        "image": "TimePhoto_20251125_093118.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.802815277777778,
+          10.305103333333333
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100933.jpg",
+        "image": "TimePhoto_20251125_100933.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.792916944444444,
+          10.30952388888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_102248.jpg",
+        "image": "TimePhoto_20251125_102248.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.797272222222222,
+          10.308891944444445
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_102058.jpg",
+        "image": "TimePhoto_20251125_102058.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801438888888889,
+          10.302608888888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_100345.jpg",
+        "image": "TimePhoto_20251125_100345.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7902875,
+          10.30333888888889
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_084328.jpg",
+        "image": "TimePhoto_20251125_084328.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.801030277777778,
+          10.29128
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_092818.jpg",
+        "image": "TimePhoto_20251125_092818.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.790293888888888,
+          10.303335
+        ]
+      },
+      "properties": {
+        "name": "TimePhoto_20251125_084330.jpg",
+        "image": "TimePhoto_20251125_084330.jpg"
+      }
+    }
+  ]
+}
